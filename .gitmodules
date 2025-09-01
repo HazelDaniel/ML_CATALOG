@@ -1,0 +1,3 @@
+[submodule "vendor/PRACTICE"]
+	path = vendor/PRACTICE
+	url = https://github.com/HazelDaniel/ml-practice.git
